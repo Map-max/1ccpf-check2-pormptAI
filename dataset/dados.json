@@ -1,0 +1,12 @@
+[
+    {"pergunta":"Estou com febre","resposta":"Você também apresenta tosse, falta de ar ou dor no corpo?"},
+    {"pergunta":"Estou com dor no peito","resposta":"⚠️ Procure atendimento médico imediato."},
+    {"pergunta":"Estou tossindo","resposta":"Há quantos dias? Existe febre?"},
+    {"pergunta":"Estou com dor abdominal","resposta":"A dor é intensa? Há vômitos ou febre?"},
+    {"pergunta":"Estou com tontura","resposta":"Você sentiu desmaio ou palpitações?"},
+    {"pergunta":"Estou com falta de ar","resposta":"⚠️ Procure atendimento médico."},
+    {"pergunta":"Preciso renovar receita","resposta":"Seu caso pode ser tratado com consulta agendada."},
+    {"pergunta":"Quero check-up","resposta":"Podemos encaminhar para consulta de rotina."},
+    {"pergunta":"Estou com dor de cabeça","resposta":"A dor é intensa? Há náusea?"},
+    {"pergunta":"Estou vomitando","resposta":"Há sangue ou febre?"}
+]
